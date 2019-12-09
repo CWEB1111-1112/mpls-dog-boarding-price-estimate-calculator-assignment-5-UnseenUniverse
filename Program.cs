@@ -12,4 +12,8 @@ namespace assignment_five
 
         //Create a class called Estimate
     }
+    class Estimate
+    {
+        
+    }
 }
