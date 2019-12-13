@@ -14,6 +14,10 @@ namespace assignment_five
     }
     class Estimate
     {
-        
+      public string ownerName{ get; set; }
+      public string dogName{ get; set; }
+      public int dogWeight{ get; set; }
+      public int numOfDays{ get; set; }
+      public string addOnCode{ get; set; }
     }
 }
